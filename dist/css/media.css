@@ -1,0 +1,39 @@
+#navbar .container {
+  flex-direction: column; }
+  #navbar .container .logo {
+    text-align: center;
+    padding: 0.7rem 0; }
+
+#navbar ul {
+  flex-direction: column;
+  width: 100%; }
+  #navbar ul li a {
+    padding: 0.5rem 0;
+    border-bottom: #444 dotted 1px; }
+
+#showcase {
+  height: 100%; }
+  #showcase .showcase-content {
+    padding-top: 70px;
+    padding-bottom: 30px; }
+
+#home-info {
+  grid-template-columns: 1fr;
+  height: 500px; }
+  #home-info .info-img {
+    display: none; }
+
+#features {
+  grid-template-columns: 1fr; }
+
+#about-info .container {
+  grid-template-columns: 1fr; }
+  #about-info .container h1 {
+    text-align: center; }
+  #about-info .container img {
+    margin: 10px auto; }
+
+#contact-info .container {
+  grid-template-columns: 1fr; }
+  #contact-info .container .box {
+    border-bottom: #444 dotted 1px; }

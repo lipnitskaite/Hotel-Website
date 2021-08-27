@@ -1,0 +1,15 @@
+// Variables
+$max-width: 1100px;
+$primary-color: #f7c08a;
+$dark-color: #333;
+$medium-color: #444;
+$light-color: #f4f4f4;
+
+// Set Text Color
+@function set-text-color($color) {
+  @if (lightness($color) > 50) {
+    @return #333;
+  } @else {
+    @return #fff;
+  }
+}
