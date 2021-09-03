@@ -19,7 +19,7 @@
 
 #home-info {
   grid-template-columns: 1fr;
-  height: 500px; }
+  height: 520px; }
   #home-info .info-img {
     display: none; }
 
@@ -32,6 +32,11 @@
     text-align: center; }
   #about-info .container img {
     margin: 10px auto; }
+
+#contact-form .container .form-group input,
+#contact-form .container .form-group textarea {
+  border-radius: 0;
+  -webkit-appearance: none; }
 
 #contact-info .container {
   grid-template-columns: 1fr; }

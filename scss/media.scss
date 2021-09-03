@@ -35,7 +35,7 @@
 // Home Info
 #home-info {
   grid-template-columns: 1fr;
-  height: 500px;
+  height: 520px;
 
   .info-img {
     display: none;
@@ -63,6 +63,18 @@
 }
 
 // Contact
+#contact-form {
+  .container {
+    .form-group {
+      input,
+      textarea {
+        border-radius: 0;
+        -webkit-appearance: none;
+      }
+    }
+  }
+}
+
 #contact-info {
   .container {
     grid-template-columns: 1fr;
