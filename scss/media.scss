@@ -35,7 +35,8 @@
 // Home Info
 #home-info {
   grid-template-columns: 1fr;
-  height: 520px;
+  height: 500px;
+  -webkit-appearance: none;
 
   .info-img {
     display: none;
@@ -82,5 +83,11 @@
     .box {
       border-bottom: #444 dotted 1px;
     }
+  }
+}
+
+@media (min-width: 600px) {
+  #home-info {
+    height: 35vh;
   }
 }
