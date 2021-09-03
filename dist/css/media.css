@@ -19,7 +19,7 @@
 
 #home-info {
   grid-template-columns: 1fr;
-  height: 500px;
+  height: 550px;
   -webkit-appearance: none; }
   #home-info .info-img {
     display: none; }
