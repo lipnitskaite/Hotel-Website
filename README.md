@@ -8,24 +8,18 @@
 ### Desktop-версия
 
 #### **index.html**
-
-![desk_index_1](https://user-images.githubusercontent.com/88855419/132016499-1b435a9f-7497-4dc7-a647-b6c5b91500f4.png)
-
-![desk_index_2](https://user-images.githubusercontent.com/88855419/132016619-23dbfa3b-9fcc-4b63-b9dc-3f07a39fc8f8.png)
+![desk_index_1](https://user-images.githubusercontent.com/88855419/132096068-4a92c669-f35e-4abe-85d6-a5afe54b2326.png)
+![desk_index_2](https://user-images.githubusercontent.com/88855419/132096072-02e94ea0-c133-4061-9c04-8ed1042b0691.png)
 
 
 #### **about.html**
-
-![desk_about_1](https://user-images.githubusercontent.com/88855419/132017032-59fdddc9-fd9c-49aa-b41f-e9e5d3a860d5.png)
-
-![desk_about_2](https://user-images.githubusercontent.com/88855419/132017090-f8cbbbec-cf6a-4964-a275-4a4bd7fadb26.png)
+![desk_about_1](https://user-images.githubusercontent.com/88855419/132096081-e3b2fe01-681a-4ba6-809b-df2de51356f6.png)
+![desk_about_2](https://user-images.githubusercontent.com/88855419/132096084-b81edfd1-18bb-4686-b68d-8be27ecd831a.png)
 
 
 #### **contact.html**
-
-![desk_contact_1](https://user-images.githubusercontent.com/88855419/132018970-d8675644-459a-4e5d-b833-15452b8ad214.png)
-
-![desk_contact_2](https://user-images.githubusercontent.com/88855419/132019016-69849757-764a-48cf-8420-3c7877ae3e5d.png)
+![desk_contact_1](https://user-images.githubusercontent.com/88855419/132096095-912a9987-7ef2-4e95-b9fa-63861ea32f4a.png)
+![desk_contact_2](https://user-images.githubusercontent.com/88855419/132096099-65196f80-cd23-4049-986d-4fb415a02e4f.png)
 
 
 ### iPad-версия
