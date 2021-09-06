@@ -1,6 +1,6 @@
 # Hotel-Website
 
-Pretty simple and neat three page landing of the hotel website. Just html+css (including grid, flexbox, sass), no JS.
+Pretty simple and neat three-page landing of the hotel website. Just html+css (including grid, flexbox, sass), no JS.
 
 To see the landing in work please follow the link: https://serene-hamilton-9d2971.netlify.app/
 
