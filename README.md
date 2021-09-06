@@ -1,11 +1,11 @@
 # Hotel-Website
 
-Довольно простой и лаконичный трехстраничный лендинг сайта отеля. Без применения js, только html+css (с применением технологий grid, flexbox, sass).
+Pretty simple and neat three page landing of the hotel website. Just html+css (icnluding grid, flexbox, sass), no JS.
 
-В работе лендинг можно посмотреть здесь: https://serene-hamilton-9d2971.netlify.app/
+To see the landing in work please follow the link: https://serene-hamilton-9d2971.netlify.app/
 
-## Скриншоты
-### Desktop-версия
+## Skreenshots
+### Desktop-version
 
 #### **index.html**
 ![desk_index_1](https://user-images.githubusercontent.com/88855419/132096068-4a92c669-f35e-4abe-85d6-a5afe54b2326.png)
@@ -22,7 +22,7 @@
 ![desk_contact_2](https://user-images.githubusercontent.com/88855419/132096099-65196f80-cd23-4049-986d-4fb415a02e4f.png)
 
 
-### iPad-версия
+### iPad-version
 
 #### **index.html**
 ![ipad_index_1](https://user-images.githubusercontent.com/88855419/132100918-2066143c-d78a-42ac-815e-26397e81213c.png)   
@@ -39,7 +39,7 @@
 ![ipad_contact_2](https://user-images.githubusercontent.com/88855419/132100958-4f7b7e48-c304-44ee-9c36-735dd117aa87.png)
 
 
-### iPhone X-версия
+### iPhone X-version
 
 #### **index.html**
 ![iphone_index_1](https://user-images.githubusercontent.com/88855419/132101132-57eb63f3-0ba5-4223-b71b-0ac7395fc94e.png)   
