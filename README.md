@@ -4,7 +4,7 @@ Pretty simple and neat three page landing of the hotel website. Just html+css (i
 
 To see the landing in work please follow the link: https://serene-hamilton-9d2971.netlify.app/
 
-## Skreenshots
+## Screenshots
 ### Desktop-version
 
 #### **index.html**
