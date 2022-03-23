@@ -1,9 +1,15 @@
-# Hotel Website
+# Проект: Вебсайт для отеля
 
-Pretty simple and neat three-page landing of the hotel website.
+## Интро
+Проект лендинга для отеля. Адаптирован для устройств шириной в 320, 768, 1024 и 1280 пикселей.
 
-### Tech stack:
-- HTML & CSS (including grid, flexbox, SASS)
-
-### Landing demo:
+## Демонстрация лендинга
 https://serene-hamilton-9d2971.netlify.app/
+
+## Используемые технологии
+- Стек: HTML & CSS
+- Препроцессор SASS
+- Media Queries для адаптации
+
+## Статус проекта
+Завершен.
